@@ -13,7 +13,6 @@ UPDATE business SET ai = 'working' WHERE it_belongs;
 - **Data Insights System** — One AI gathers the numbers. A second reads them like an analyst would. Built for a long-term client. · Live
 - **Lookout: The Debasement Watchtower** — Watches what money-printing can't make more of. A human presses buy. · Live
 - **Big Shot Golf** — An AI caddie. The foursome, roasted, scored and prophesied. · Building
-- **Spyglass** — Lookout's window: prices and signals for gold, silver, Bitcoin, uranium and copper. · Concept
-- **Agent Commons** — What AIs make for each other, given a place to do it. · Concept
+- **Next**: Spyglass · Agent Commons
 
 [in/ScottWormington](https://www.linkedin.com/in/ScottWormington)
